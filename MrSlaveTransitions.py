@@ -182,6 +182,7 @@ while True:
     effects.insert(0, effect)
 
 -------------------------------------------------------------------------------------
+Gehört nicht zum Code
 
 Automatisches Starten des Python-Scripts in /etc/rc.local
 
